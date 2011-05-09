@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Concordance.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="wordRegex" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\b(?&lt;word&gt;[\w\']+)\b</Value>
+    </Setting>
+    <Setting Name="contextRegex" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[^.!?]\r*\n*\f*\s*(?&lt;sentance&gt;[\w\s\'\,\-\:\(\)]+[.!?$])</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,29 @@
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.MainForm.resources
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.Properties.Resources.resources
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\Concordance.exe
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\Concordance.pdb
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.exe
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.pdb
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.exe
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.pdb
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\Concordance.exe
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\Concordance.pdb
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.MainForm.resources
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.Properties.Resources.resources
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResGen.read.1.tlog
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\ResGen.write.1.tlog
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+d:\Documents and Settings\Timofp01\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\obj\x86\Debug\Concordance.AboutBox.resources
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\Concordance.exe.config
+C:\Users\Pavel\Desktop\My Dropbox\Corcordance\CorcordanceConsole\Corcodance\bin\Debug\app.config
